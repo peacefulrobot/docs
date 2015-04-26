@@ -15,19 +15,19 @@ micro-donations.
 
 Services provided by Peaceful Robot would include
 manual and automated analysis of source code,
-applications and systems for security weaknesses using
-novel, innovative ways that are reusable
-modules that are loosely-coupled.
+applications and systems for security weaknesses. These
+services will use novel, innovative ways in the form of
+reusable, loose-coupled modules that are available on
+the Internet.
 
-- Which open source licensing for code and
-documentation?
-  - CC-BY-SA documentation
-  - AGPL code
-    - Licenses in a share-alike model helps keeps
-    cybersecurity transparent and open
-
--
-
+Source code and documentation will use licenses that
+use the share-alike model. Source code uses the GNU
+Affero General Public License (AGPL) license.
+Documentation uses the Creative Commons BY-ShareAlike
+(CC-BY-SA) license. Using licenses in the share-alike
+model, with provisions for hosted versions will help
+keep the source code and documentation transparent and
+open.
 
 
 STAKEHOLDER IDENTIFICATION
@@ -43,10 +43,14 @@ REQUIREMENTS, INCLUDING
 FUNCTIONAL REQUIREMENTS (E.G. WHAT A PRODUCT
 SHOULD DO)
 
+
 USABILITY REQUIREMENTS
+
 
 TECHNICAL REQUIREMENTS (E.G. SECURITY, NETWORK,
 PLATFORM, INTEGRATION, CLIENT)
+
+Security
 
 Offline
 noBackend
@@ -62,16 +66,24 @@ Yeoman
 
 ENVIRONMENTAL REQUIREMENTS
 
+
 SUPPORT REQUIREMENTS
+
 
 INTERACTION REQUIREMENTS (E.G. HOW THE PRODUCT
 SHOULD WORK WITH OTHER SYSTEMS)
 
+
 ASSUMPTIONS
 
+
 CONSTRAINTS
+
 
 HIGH LEVEL WORKFLOW PLANS, TIMELINES AND MILESTONES
 (MORE DETAIL DEFINED THROUGH A PROJECT PLAN)
 
+
 EVALUATION PLAN AND PERFORMANCE METRICS
+
+Actionable and Measurable
