@@ -7,10 +7,28 @@ Version 0.0.1-alpha
 PURPOSE AND SCOPE, BUSINESS AND TECHNICAL PERSPECTIVES
 
 Peaceful Robot is a not-for-profit cybersecurity
-service that analyze source code, applications and
-systems for security weaknesses. Service source code is
-open source. Expected funding will be via hosted
-service and microdonations.
+service that provides the analysis of source code,
+applications and systems for security weaknesses.
+Service source code is open source. Expected funding
+will be via hosted service, bug bounty programs and
+micro-donations.
+
+Services provided by Peaceful Robot would include
+manual and automated analysis of source code,
+applications and systems for security weaknesses using
+novel, innovative ways that are reusable
+modules that are loosely-coupled.
+
+- Which open source licensing for code and
+documentation?
+  - CC-BY-SA documentation
+  - AGPL code
+    - Licenses in a share-alike model helps keeps
+    cybersecurity transparent and open
+
+-
+
+
 
 STAKEHOLDER IDENTIFICATION
 
@@ -29,6 +47,18 @@ USABILITY REQUIREMENTS
 
 TECHNICAL REQUIREMENTS (E.G. SECURITY, NETWORK,
 PLATFORM, INTEGRATION, CLIENT)
+
+Offline
+noBackend
+Mobile-first
+
+Vagrant
+Docker
+coreos
+Grunt
+Bower
+Yeoman
+
 
 ENVIRONMENTAL REQUIREMENTS
 
