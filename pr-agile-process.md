@@ -14,9 +14,9 @@ Revision 0.0.2-alpha
 
 Functional Iteration Structure
 
-Iterations are time-boxed within ~ 4 weeks. Go through
-a functional task per day[1], until there are personnel to
-own the individual task.
+Iterations are time-boxed within ~ 4 weeks. SHOULD go
+through a functional task per day[1], until there are
+personnel to own the individual task.
 
 1. Planning
   a. User Stories
@@ -30,8 +30,8 @@ own the individual task.
   a. Flow Charting
 
 4. Coding
-  a. Pair Programming using either: Cloud9, Koding,
-  Nitrous
+  a. Pair Programming using either (In order of
+    testing): Nitrous, Koding, Cloud9
 
 5. Unit Testing
   a. Travis CI
@@ -39,8 +39,3 @@ own the individual task.
 
 6. Acceptance Testing
   a. Code Climate
-
-
-NOTES:
-[1] - Functional iteration tasks do not have to be
-sequential.
