@@ -14,8 +14,8 @@ Revision 0.0.2-alpha
 
 Functional Iteration Structure
 
-Iterations are time-boxed within ~ 4 weeks. SHOULD go
-through a functional task per day[1], until there are
+Iterations are time-boxed within ~3 weeks. Go
+through a functional task per day, until there are
 personnel to own the individual task.
 
 1. Planning
