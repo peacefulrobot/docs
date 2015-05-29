@@ -12,6 +12,12 @@ Peaceful Robot is a not-for-profit cybersecurity
 service that provides the analysis of source code,
 applications and systems for security weaknesses.
 
+The scope for Iteration 20150530 is to go through
+potential targets via bug bounty programs and collect
+information on gaps that need developing. Consider this
+iteration as a research and development phase.
+
+
 ### BUSINESS PERSPECTIVES
 
 Services provided by Peaceful Robot would include
@@ -23,6 +29,11 @@ available on the Internet. Expected funding will be
 via hosted service, bug bounty programs and micro-
 donations.
 
+Iteration 20150530 will find gaps that will become
+micro-services. Hosting the micro-services will provide
+revenue to Peaceful Robot.
+
+
 ### TECHNICAL PERSPECTIVES
 
 Service source code is open source. Source code and
@@ -33,8 +44,6 @@ Creative Commons BY-ShareAlike (CC-BY-SA) license.
 Using licenses in the share-alike model, with
 provisions for hosted versions will help keep the
 source code and documentation transparent and open.
-
-This was a bad choice
 
 
 STAKEHOLDER IDENTIFICATION
